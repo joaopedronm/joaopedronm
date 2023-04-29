@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋, I'm João Pedro</h1>
 <h3 align="center">A Brazilian front-end developer. 👨‍💻</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&duration=2000&pause=1000&color=02080B&center=true&vCenter=true&width=435&lines=function+getInspiration()+%7B;if(morningDay+%3D%3D%3D+%22depressed%22)+%7B;start.Coding+%26+get.Awesome+%7D+%7D)](https://git.io/typing-svg)
+
 - 🚀 I’m currently working on **personal projects to improve my skills as a developer and expand my personal portfolio.**
 
 - ✔ All of my main projects are available here at GitHub.
@@ -18,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopedronm&show_icons=true&locale=en&layout=compact" alt="joaopedronm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaopedronm&show_icons=true&locale=en" alt="joaopedronm" /></p>
+
+
