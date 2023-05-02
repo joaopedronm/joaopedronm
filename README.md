@@ -20,6 +20,6 @@
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=joaopedronm&show_icons=true&locale=en&layout=compact" alt="joaopedronm" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaopedronm&show_icons=true&locale=en" alt="joaopedronm" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaopedronm&show_icons=true&locale=en" alt="joaopedronm" /></p>
 
 
