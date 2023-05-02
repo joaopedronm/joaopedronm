@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact: You can't wash your eyes with soap **(although you probably already know that).**
 
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
