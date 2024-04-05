@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm João Pedro</h1>
 <!--- snake -->
-<div align="center">
+<!-- <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div> -->
 <h3 align="center">A Brazilian front-end developer. 👨‍💻</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&duration=2000&pause=1000&color=02080B&center=true&vCenter=true&width=435&lines=function+getInspiration()+%7B;if(morningDay+%3D%3D%3D+%22depressed%22)+%7B;start.Coding+%26+get.Awesome+%7D+%7D)](https://git.io/typing-svg)
