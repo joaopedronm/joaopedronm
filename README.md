@@ -14,7 +14,7 @@
 
 <!--Intro start-->
 
-- 🔭 I’m currently working on **JavaScript, React, Nodejs & MongoDB**;
+- 🔭 I’m currently working on **React Native, React, Nodejs & MongoDB**;
 
 - 🌱 I’m currently learning **JAVA, SQL & AWS** to build more solid applications and expand my stack as developer;
 
