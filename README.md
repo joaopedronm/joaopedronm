@@ -8,15 +8,15 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">A Brazilian full-stack developer. 👨‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Writing code, fixing bugs, and sipping coffee. 👨‍💻</h2></summary>
   </ul>
 </div>
 
 <!--Intro start-->
 
-- 🔭 I’m currently working on **React Native, React, Nodejs & MongoDB**;
+- 🔭 I’m currently working on **React Native, Next.js, Nodejs & MongoDB**;
 
-- 🌱 I’m currently learning **JAVA, SQL & AWS** to build more solid applications and expand my stack as developer;
+- 🌱 I’m currently learning **ANGULAR & SQL** to build more solid applications and expand my stack as developer;
 
 - ☁️ I've a degree in Physics and I'm studying Systems Analysis at college;
 
@@ -50,7 +50,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=joaopedronm&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedronm&theme=dark&hide_border=false" /> 
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joaopedronm&theme=dark" alt="GitHub Streak" /></a>
 </td>
 
 <td width="50%" align="center">
