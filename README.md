@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
   <h1>Hey 👋 I'm João Pedro</h1>
-  <h3>Mid-Level Developer at ProSales • Building systems, fixing chaos, shipping anyway.</h3>
+  <h3>Mid-Level Developer at ProSales • Building systems and fixing bugs I didn’t create (most of the time)</h3>
 </div>
 
 ---
