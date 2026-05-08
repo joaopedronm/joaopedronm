@@ -10,7 +10,6 @@
 
 - 💼 Currently working as **Mid-Level Developer at ProSales**
 - ⚙️ Building solutions with **PHP, JavaScript, React, React Native, Node.js, MySQL & MongoDB**
-- 🎯 Focused on becoming sharper technically and financially dangerous
 - 🎓 Degree in **Physics**
 - ☕ Debugging powered by coffee and silent disappointment
 - 🚴 Outside code: karate, cycling, books, philosophy and overthinking life decisions
